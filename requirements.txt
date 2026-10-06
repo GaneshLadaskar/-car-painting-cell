@@ -1,0 +1,10 @@
+# Tools that run OUTSIDE RoboDK (car preparation and path generation)
+numpy
+trimesh
+rtree
+scipy
+matplotlib
+# Needed to reduce heavy car models (pip install fast-simplification). Optional if your model is already light.
+fast-simplification
+# The robodk package is used by robodk/paint_car.py, which runs INSIDE RoboDK
+robodk

@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+.vscode/
+*.log
+# Raw downloads of third-party car models (check the licence before publishing a model)
+models/*_raw.*
